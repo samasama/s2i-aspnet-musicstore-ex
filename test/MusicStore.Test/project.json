@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "dotnet-test-xunit": "2.2.0-*",
+    "Microsoft.CodeCoverage": "1.0.3",
     "Microsoft.DotNet.InternalAbstractions": "1.0.0",
     "Microsoft.Extensions.Logging.Testing": "1.1.0-rtm-22752",
     "MusicStore": "1.1.0-*",

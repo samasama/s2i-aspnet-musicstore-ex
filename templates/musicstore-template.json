@@ -268,7 +268,7 @@
             "name": "GIT_REF",
             "description": "Set this to a branch name, tag or other ref of your repository if you are not using the default branch.",
             "displayName": "Git Branch",
-            "value": "rel/1.1-example"
+            "value": "rel/1.1-modifications"
         },
         {
             "name": "GIT_CONTEXT_DIR",
